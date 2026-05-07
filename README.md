@@ -186,9 +186,8 @@ customer-churn-prediction-dashboard/
 
 Clone the repository:
 
-```bash
-git clone https://github.com/ankitkumar8558011-alt/customer-churn-prediction-dashboard.git
-```
+https://github.com/ankitkumar8558011-alt/customer-churn-prediction.git
+
 
 Install dependencies:
 
