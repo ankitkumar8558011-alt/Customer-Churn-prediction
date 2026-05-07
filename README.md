@@ -140,6 +140,87 @@ Customers were segmented using predicted churn probabilities:
 * Interactive Plotly Scatter Plot
 
 ---
+# Screenshots & Visualizations
+
+---
+
+## Churn Distribution
+
+<p align="center">
+  <img src="charts/churn_Distribution.png" width="700">
+</p>
+
+---
+
+## Correlation Heatmap
+
+<p align="center">
+  <img src="charts/Correlation_Heatmap.png" width="1000">
+</p>
+
+---
+
+## Feature Importance Chart
+
+<p align="center">
+  <img src="charts/Feature_importance(1).png" width="900">
+</p>
+
+---
+
+## Confusion Matrices
+
+<p align="center">
+  <img src="charts/Confusion_Matrices.png" width="1200">
+</p>
+
+---
+
+## ROC Curve Comparison
+
+<p align="center">
+  <img src="charts/ROC_curve.png" width="800">
+</p>
+
+---
+
+## Risk Tier Comparison
+
+<p align="center">
+  <img src="charts/Risk_tier_comparison.png" width="800">
+</p>
+
+---
+
+## Churn Rate by Contract Type
+
+<p align="center">
+  <img src="charts/Churn_Rate_by_contract.png" width="800">
+</p>
+
+---
+
+## Tenure Distribution by Churn
+
+<p align="center">
+  <img src="charts/Tenure_Distribution.png" width="800">
+</p>
+
+---
+
+## Customer Risk Tier Distribution
+
+<p align="center">
+  <img src="charts/Customer_risk_tier.png" width="700">
+</p>
+
+---
+
+## Monthly Charges vs Tenure (Interactive Scatter Plot)
+
+<p align="center">
+  <img src="charts/Monthly_vs_Tenure.png" width="900">
+</p>
 
 # Key Insights
 
